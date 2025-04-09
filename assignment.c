@@ -12,8 +12,8 @@ int main()
     leap(number) ? printf("%d leap year\n", number) : printf("%d not a leap year\n", number);
 
 
-    int num;                                     //armstrong
-    printf("palindrome\n");
+    int num;                                     //palindrome
+    printf(" Check palindrome\n");
     printf("Enter the number: ");
     scanf("%d", &num);
     
